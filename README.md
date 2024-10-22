@@ -1,3 +1,6 @@
+![logo](https://github.com/Geeteshkamble/Geeteshkamble/blob/main/Geetesh.png)
+
+
 <h1 align="center">Hi 👋, I'm Geetesh Kamble</h1>
 <h3 align="center">AI & ML Engineer 🤖 | Innovative Machine Learning Expert 🧠 | Skilled in Python 🐍, SQL 💾 & NLP 🗣️ | Driving Tech Solutions 🚀</h3>
 
