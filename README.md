@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **geeteshkamble2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hSRROACEQqqrmYaWgTxeOJY3M6XARcxc/view?usp=drive_link](https://drive.google.com/file/d/1hSRROACEQqqrmYaWgTxeOJY3M6XARcxc/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1hSRROACEQqqrmYaWgTxeOJY3M6XARcxc/view?usp=drive_link](https://drive.google.com/file/d/1hSRROACEQqqrmYaWgTxeOJY3M6XARcxc/view?usp=drive_link)](https://drive.google.com/file/d/1hSRROACEQqqrmYaWgTxeOJY3M6XARcxc/view?usp=sharing)
 
 - ⚡ Fun fact **I can debug code faster than I can decide what to eat for lunch! 🖥️🐛🍕🤔**
 
